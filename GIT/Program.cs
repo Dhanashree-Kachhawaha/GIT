@@ -8,7 +8,7 @@ namespace GIT
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("trial");
-            Console.Writeline("pull changes from here");
+            Console.WriteLine("pull changes from here");
         }
     }
 }
