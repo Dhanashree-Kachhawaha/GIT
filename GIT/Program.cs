@@ -9,6 +9,7 @@ namespace GIT
             Console.WriteLine("Hello World!");
             Console.WriteLine("trial");
             Console.WriteLine("pull changes from here");
+            Console.WriteLine("new day -wednesday");
         }
     }
 }
